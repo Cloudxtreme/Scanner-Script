@@ -20,6 +20,8 @@ EOF
 # Just a Simple Multi Line Seperation
         echo
         echo
+
+#Checks if Directory exists if not makes one.
 echo "Enter directory name"
         read dirname
 
